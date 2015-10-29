@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Chen Yi-Cyuan"]
   spec.email         = ["emn178@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{An sms_carrier delivery method layer that decides the delivery method dynamically by your rules.}
+  spec.description   = %q{An sms_carrier delivery method layer that decides the delivery method dynamically by your rules.}
   spec.homepage      = "https://github.com/emn178/dynamic-carrier"
   spec.license       = "MIT"
 
